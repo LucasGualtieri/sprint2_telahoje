@@ -1,0 +1,38 @@
+{
+	"AEDs1": {
+		"ListaRecursividade": {
+			"id": 1,
+			"nome": "Lista Recursividade",
+			"prazo": "15/11/2022",
+			"prioridade": "Alta",
+			"tipo": true,
+			"numeroMaximoQuestoes": 30,
+			"numeroQuestoesFeitas": 3
+		},
+		"ListaModularizacao": {
+			"id": 2,
+			"nome": "Lista Modularizacao",
+			"prazo": "20/11/2022",
+			"prioridade": "Baixa",
+			"tipo": true,
+			"numeroMaximoQuestoes": 50,
+			"numeroQuestoesFeitas": 25
+		}
+	},
+	"DIW": {
+		"MaonaMassaCalculadoraJS": {
+			"id": 3,
+			"nome": "Mão na Massa - Calculadora Java Script",
+			"prazo": "12/12/2022",
+			"prioridade": "Alta",
+			"tipo": true
+		},
+		"MaonaMassaJogoDaMemoriaJS": {
+			"id": 4,
+			"nome": "Mão na Massa - Jogo da memória em Java Script",
+			"prazo": "20/11/2022",
+			"prioridade": "Média",
+			"tipo": true
+		}
+	}
+}
